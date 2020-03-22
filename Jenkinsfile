@@ -3,6 +3,7 @@ pipeline{
     stages{
         stage("Deploy Dev"){
             when {
+                // This works only in multi branch pipeline
                 branch 'development'
             }
             steps{
