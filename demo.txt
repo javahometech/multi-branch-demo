@@ -1,2 +1,4 @@
 This is dummy file
 Testing branch regular expression
+This is dummy file
+Testing branch regular expression
